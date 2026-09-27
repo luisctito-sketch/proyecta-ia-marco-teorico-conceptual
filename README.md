@@ -1,82 +1,54 @@
 # PROYECTA-IA — Capítulo II: Marco Teórico y Conceptual
 
-Módulo de apoyo metodológico para construir y revisar el **CAPÍTULO II. MARCO TEÓRICO Y CONCEPTUAL**.
+Versión actualizada del chatbot `PROYECTA_IA_Capitulo_II_Marco_Teorico_Conceptual_GitHub`.
 
-## Funciones
+## Mejoras incorporadas
 
-- Explica qué es el Marco Teórico.
-- Explica qué es el Marco Conceptual.
-- Diferencia Marco Teórico de Antecedentes.
-- Describe el plagio y la integridad académica.
-- Explica cuándo una idea necesita cita.
-- Enlaza con los módulos APA 6 de PROYECTA-IA.
-- Extrae conceptos candidatos desde el Objetivo General y los Objetivos Específicos.
-- Propone una estructura inicial que el estudiante debe revisar.
-- Revisa párrafos científicos.
-- Controla uso aproximado de máximo 10 líneas por párrafo.
-- Controla primera persona, conectores, viñetas y presencia de citas.
-- Compara un fragmento original con la versión del estudiante como alerta pedagógica de paráfrasis demasiado cercana.
-- Genera un prompt de auditoría profunda para ChatGPT.
-
-## Principio para construir la estructura
-
-La estructura no se inventa desde una plantilla genérica.
-
-Se parte de:
-
-1. Objetivo General.
-2. Objetivos Específicos.
-3. Sustantivos/conceptos centrales.
-4. Variables, sistemas y tecnologías presentes en esos objetivos.
-
-El estudiante decide cuáles candidatos realmente deben convertirse en temas o subtemas.
-
-## Redacción de párrafos
-
-Modelo pedagógico utilizado:
-
-Tema → Idea principal → Oraciones de sustento → Oración final.
-
-La redacción debe ser científica, cohesionada y preferentemente en tercera persona o forma impersonal.
-
-## Viñetas
-
-No deben sustituir la redacción científica.
-
-Se reservan para verdaderas enumeraciones:
-- componentes;
-- requisitos;
-- categorías;
-- características técnicas;
-- etapas;
-- criterios;
-- elementos que necesitan formato de lista.
-
-## APA 6
-
-Módulos complementarios:
-
-- https://luisctito-sketch.github.io/proyecta-ia-apa6/
-- https://luisctito-sketch.github.io/proyecta-ia-apa6-word/
+- Conserva la explicación de Marco Teórico y Marco Conceptual.
+- Mantiene el control de plagio e integridad académica.
+- Mantiene enlaces directos a:
+  - PROYECTA-IA — Citas y Referencias APA 6.
+  - PROYECTA-IA — APA 6 en Microsoft Word.
+- Incluye jerarquía tipográfica del Capítulo II:
+  - CAPÍTULO: Times New Roman 16, negrilla, mayúsculas.
+  - 2.1: Times New Roman 14, negrilla, mayúsculas.
+  - 2.1.1: Times New Roman 12, negrilla, mayúsculas.
+  - 2.1.1.1: Times New Roman 12, negrilla, minúsculas con mayúscula inicial.
+  - 2.1.1.1.1: Times New Roman 12, negrilla, minúsculas con mayúscula inicial.
+- Exige un párrafo introductorio después del título del Capítulo II y antes de 2.1.
+- Incorpora tres plantillas introductorias con campos `[ ]`.
+- Extrae conceptos candidatos desde Objetivo General y Objetivos Específicos.
+- Construye un índice tentativo que el estudiante debe revisar, eliminar, fusionar o ampliar.
+- Permite modelo normal o detallado hasta quinto nivel.
+- Mantiene el máximo aproximado de 10 líneas por párrafo en Times New Roman 12.
+- Explica la estructura de párrafo: tema → idea principal → sustento → oración final.
+- Incluye tres ejemplos de Ingeniería Electrónica:
+  - control y automatización;
+  - telecomunicaciones;
+  - electromedicina.
+- Añade dos ejemplos concretos de uso correcto de viñetas.
+- Añade conectores gramaticales con ejemplos aplicados a Ingeniería Electrónica.
+- El revisor integral comprueba la presencia de párrafo introductorio y la capitalización de niveles 4 y 5.
 
 ## Acceso centralizado
 
-Este módulo utiliza:
+Se mantiene:
 
 `https://luisctito-sketch.github.io/proyecta-ia-acceso/access.js`
 
-Cuando ingresen nuevos estudiantes, **solo se actualiza `access.js` en `proyecta-ia-acceso`**.
-No es necesario modificar este chatbot.
+No se almacenan los C.I. en este repositorio. Las altas y bajas se actualizan únicamente en `proyecta-ia-acceso`.
 
-## Repositorio sugerido
+## Repositorio
+
+Mantener el repositorio existente:
 
 `proyecta-ia-marco-teorico-conceptual`
 
-## URL esperada
+URL esperada:
 
 `https://luisctito-sketch.github.io/proyecta-ia-marco-teorico-conceptual/`
 
-## Archivos
+## Archivos a reemplazar
 
 - `index.html`
 - `styles.css`
